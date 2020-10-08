@@ -1,0 +1,3 @@
+'client.username_pw_set(mqtt_username, password=mqtt_password)
+'client.tls_set(ca_certs, certfile=None,keyfile=None, cert_reqstls_versio, ciphers)
+client.tls_insecure_set(False)

@@ -1,0 +1,30 @@
+<b>Temperature:</b> 16.1&#176;C
+        <img align="top" src="http://www.weatherzone.com.au/images/widgets/nav_trend_steady.gif" alt="steady"/>
+        <br />
+        <b>Feels like:</b> 16.6&#176;C<br />
+        <b>Dew point:</b> 16.1&#176;C
+        <img align="top" src="http://www.weatherzone.com.au/images/widgets/nav_trend_steady.gif" alt="steady"/>
+        <br />
+        <b>Relative humidity:</b> 100%<br />
+        <b>Wind:</b> E at 8 km/h, gusting to 0 km/h
+        <img align="top" src="http://www.weatherzone.com.au/images/widgets/nav_trend_steady.gif" alt="steady"/>
+        <br />
+        <b>Rain:</b> 0.0mm since 9am<br />
+        <b>Pressure:</b> 1011.9 hPa
+        <img align="top" src="http://www.weatherzone.com.au/images/widgets/nav_trend_steady.gif" alt="steady"/>
+        <br /><b>Friday</b><br />
+<img src="http://www.weatherzone.com.au/images/icons/fcast_30/mostly_sunny.gif"><br />
+Mostly sunny<br />
+16&#176;C - 24&#176;C<br /><br />
+<b>Saturday</b><br />
+<img src="http://www.weatherzone.com.au/images/icons/fcast_30/mostly_sunny.gif"><br />
+Mostly sunny<br />
+9&#176;C - 17&#176;C<br /><br />
+<b>Sunday</b><br />
+<img src="http://www.weatherzone.com.au/images/icons/fcast_30/mostly_sunny.gif"><br />
+Mostly sunny<br />
+5&#176;C - 15&#176;C<br /><br />
+<b>Monday</b><br />
+<img src="http://www.weatherzone.com.au/images/icons/fcast_30/sunny.gif"><br />
+Sunny<br />
+7&#176;C - 19&#176;C<br /><br />

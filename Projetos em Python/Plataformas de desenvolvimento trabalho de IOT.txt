@@ -1,0 +1,2 @@
+Google colab com desenvolvimento em python.
+Spyder, também em python.

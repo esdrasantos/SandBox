@@ -10,24 +10,26 @@ by Bruno Vermeulen on StackOverflow
 import feedparser
 import webbrowser
 
-feed = feedparser.parse("https://finance.yahoo.com/rss/")
+
+
+feed = feedparser.parse("https://rss.weatherzone.com.au/?u=12994-1285&lt=twcid&lc=160258&obs=1&fc=1")
 
 # feed_title = feed['feed']['title']  # NOT VALID
 feed_entries = feed.entries
+rss_text = open("rsstext.txt", 'w+')
 
 for entry in feed.entries:
 
     article_title = entry.title
     article_link = entry.link
-    article_published_at = entry.published # Unicode string
-    article_published_at_parsed = entry.published_parsed # Time object
+    article_description = entry.description # Unicode string
+    #article_description_at_parsed = entry.description_parsed # Time object
     # article_author = entry.author  DOES NOT EXIST
     content = entry.summary
-    # article_tags = entry.tags  DOES NOT EXIST
-
-
+    
     print ("{}[{}]".format(article_title, article_link))
-    print ("Published at {}".format(article_published_at))
-    # print ("Published by {}".format(article_author)) 
+    print ("Published at {}".format(article_description))
     print("Content {}".format(content))
-    # print("catagory{}".format(article_tags))
+    
+    
+
