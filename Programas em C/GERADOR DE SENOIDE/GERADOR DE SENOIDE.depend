@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1592078248 source:c:\users\esdra\desktop\programas em c\gerador de senoide\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

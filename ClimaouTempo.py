@@ -5,6 +5,9 @@ Created on Sun Sep  19 11:04:00 2020
 @author: Carlos Souza
 @collaborator: Esdra Santos
 
+observação: otimizar o código e enviar informações do tempo de acordo com as cidades dos clientes
+Novo Hamburgo e Sapucaia do Sul
+
 """
 
 import weathercom
